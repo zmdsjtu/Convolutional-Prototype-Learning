@@ -1,7 +1,7 @@
 #################################################
 import numpy as np
 import tensorflow as tf
-import cPickle as pickle
+import pickle as pickle
 import time
 import struct
 
